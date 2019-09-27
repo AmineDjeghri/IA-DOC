@@ -1,0 +1,11 @@
+first : 
+https://github.com/antoniosehk/keras-tensorflow-windows-installation
+
+second:
+install jupter in the new environnement in the prompt with :
+
+activate keras-gpu
+pip install jupyter
+
+finally : if you want to run a notebook , just activate the environnement of the gpu in the command prompt then do 'jupyter notebook'
+
