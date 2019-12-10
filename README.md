@@ -10,3 +10,5 @@ This is some of the documentation i did when i was in an internship at the LABOR
 - a guide to follow so you will to learn Deep learning much easier without getting too much lost.
 ## pre-requisites
 - know a little bit of how neural networks work and basic matrix operations
+
+### Special thanks to Alice and Ahmed
